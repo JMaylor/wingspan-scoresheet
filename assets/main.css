@@ -1,0 +1,4 @@
+html, body, #__nuxt {
+  height: 100%;
+  @apply dark:bg-neutral-700 dark:text-white;
+}
